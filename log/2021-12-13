@@ -54,3 +54,36 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2177621209406816256}
 
 
 
+2021-12-13 18:45:54.060717
+历史定位签到模式
+单人签到模式
+当前IP：20.69.180.6,
+
+ 美国DXCTechnology
+
+系统时间：2021-12-13 18:45:58
+UTC时间：2021-12-13 18:45:54
+北京时间：2021-12-14 02:45:54
+北京时间与系统时间误差：7:59:55.771716
+2021-12-13 18:45:58.228350:2020102241签到开始
+cookie文件存在
+cookie文件加载成功
+NAME万志雄
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME万志雄
+定位 116.034638，28.688833，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04616256319797,"lat":28.692117223578113},"formatted_address":"江西省南昌市南昌县瑶湖西大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.034633&lat=28.688841&sfby=1
+签到成功
+2021-12-13 18:46:26.233313:2020102241签到结束
+万志雄2020102241签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2178167778422079488}
+2021-12-13 18:46:28.381404程序结束
+######################################################################
+
+
+
+
