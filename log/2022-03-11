@@ -1,0 +1,33 @@
+2022-03-11 09:40:18.068881
+历史定位签到模式
+单人签到模式
+当前IP：52.224.3.67,
+
+ 美国弗吉尼亚州博伊顿Microsoft数据中心
+
+系统时间：2022-03-11 09:40:19
+UTC时间：2022-03-11 09:40:18
+北京时间：2022-03-11 17:40:18
+北京时间与系统时间误差：7:59:58.842943
+2022-03-11 09:40:19.157119:2020102241签到开始
+cookie文件存在
+cookie文件加载成功
+NAME万志雄
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME万志雄
+定位 116.0278，28.687739，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.03931351698249,"lat":28.690972506810995},"formatted_address":"江西省南昌市南昌县瑶湖西一路","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西一路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.027797&lat=28.687739&sfby=1
+签到成功
+2022-03-11 09:40:55.344025:2020102241签到结束
+万志雄2020102241签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2305179186770165765}
+2022-03-11 09:41:01.702135程序结束
+######################################################################
+
+
+
+
